@@ -25,7 +25,7 @@ setup(
     'monai',
     'positional_encodings',
     'tensorboard',
-    'pynvml',
+    'nvidia-ml-py',
     'wandb',
     'torchvision',
       ],
